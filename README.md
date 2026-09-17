@@ -113,11 +113,3 @@ This portfolio uses the source interview/case-study material as the factual basi
 
 The artifact is intentionally framed around architecture patterns, implementation decisions and documented engineering outcomes. Internal project/client codenames are omitted from the artifact naming and presentation layer.
 
-## 7. Viewing the Diagrams
-
-PNG files are optimized for boardroom/interview presentation. SVG files preserve editability. DOT files provide Graphviz-compatible source for further modification. Standalone PDFs provide one-view-per-page exports.
-
-
-
-### Diagram Standard — Redesigned
-These views are implementation diagrams: typed component/data-store/event/control shapes, explicit data/API/event/control/telemetry paths, technology labels, bounded architecture domains and runtime evidence. They are not decorative architecture cards.
